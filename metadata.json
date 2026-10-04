@@ -1,0 +1,6 @@
+{
+  "name": "SwiftWash - Laundry Pickup & Delivery",
+  "description": "Clean clothes. Less stress. SwiftWash picks up, washes, folds, and delivers laundry across Ibadan and nearby areas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
